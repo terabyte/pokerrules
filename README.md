@@ -42,6 +42,7 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
 * Most low-stakes casino games are 1/2 or 1/3 with a $300 or $400 max buy-in. For this reason, we play 1/3 with a 300 chip buy-in, divided by ten, to yield a max buy-in of $30 but retain the "casino feel".
 * The chips look like this: ![chips](chips.jpeg)
     * The three stacks on the left are all equivalent to $10: 1 x $10 chip (black), or 4 x $2.50 chip (green), or 20 x $0.50 chip (red). The stack of 20 x $0.10 chips is $2.
+    * A typical starting stack would be 56 red chips ($28) plus 20 white chips ($2) for change
 * New players should expect a few hours of play could involve losing multiple buy-ins. Don't play with more than you are comfortable losing. This also means luck and/or skill can result in winning a few buy-ins, which is a tidy sum!
 * You can never lose more than you put on the table
 * You can never be forced to put up more money because someone else has more money than you - what is on the table plays
