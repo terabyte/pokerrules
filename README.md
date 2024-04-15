@@ -72,12 +72,17 @@ This stuff is just how it works in the casinos. You probably don't care about th
 * If you are "under the gun" (first to act, first player to the left of the big blind) and if you have not yet recieved any cards, you may post a "straddle". A straddle is a blind bet for 2x the current bet. This makes you like a third blind. You can then decide to check, raise, or fold if the action comes to you unopened. If you are UTG+1 and the UTG player straddles, you may straddle also. This continues all the way around the table.
 * There are no button straddles allowed due to the complexity of figuring out the order of action.
 * Once there is no longer any action (all players are all-in) players may request to "run it twice". All must agree, otherwise we'll run it once.
-* If there are multiple all-in players, the dealer will create a side pot and figure out what goes into what pot. Let the dealer figure it out, it can be stressful so give 'em a break =)
+    * "Run it twice" is a way to reduce variance, and it can be more fun. When you "run it twice", the dealer deals the remaining community cards twice as though there are two different hands. Each hand could be won by either remaining player, so the pot may end up being chopped.
+    * Example: The flop is Ac Ah Tc. Player A goes all in and player B calls. Player A shows Ad Kd for a set and player B shows 9c 8c for a flush draw. Player B asks to "run it twice" and player A agrees.
+        * The dealer burns a card then deals Turn one (5d), then burns a card and deals River one (Qd). Player A wins this pot with 3 Aces, K Q kicker.
+        * The dealer burns another card then deals Turn two (7h), then burns a card and deals River two (2c). Player B wins this pot with a flush (Ac Tc 9c 8c 2c).
+        * The dealer chops the pot between the two players.
 * If a pot is chopped, and there is an odd number of chips, the extra chip goes to the first player on the dealer's left (i.e. first to act).
 * If you bet or raised, and that raise was called, you must show your cards to win the pot
 * If the final round checks around, first to act must show first
-* That said, it is rude to "slow roll". Once the dealer says "show 'em", just flip both your cards over.
+* It is rude to "slow roll". Once the dealer says "show 'em", just flip both your cards over.
 * You must show both cards to win a pot unless everyone else mucks.
+* If someone is taking a long time to act, you can "call clock" on them but it is rude unless they have been taking longer than 5 minutes. Clock is 2 minutes.
 
 ### Hand Rankings
 
