@@ -23,7 +23,7 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
 ### Getting Started
 
 * For an overview of Texas Hold'em, see [wikipedia](https://en.wikipedia.org/wiki/Texas_hold_%27em) or other resources
-* We play no-limit, meaning you can go all-in at any time. If someone does not have enough money, they can still call and it creates a side pot. Having less money never forces you to lose the hand.
+* We play no-limit, meaning you can go all-in (bet all the money in your stack) at any time. If someone does not have enough money, they can still call up to the amount they have. This creates a side pot. Having less money never forces you to lose the hand. You can never win more money than you had in your stack from each player in the hand. For details, see "side pots" under Betting Minutea
 * We play with chips that are styled and colored to resemble casino chips. They are labeled $1, $5, $25, and $100. These chips will be assigned a value (usually 1/10th) so that a $30 buy-in gets you 300 chips, which is what you might normally sit down at a standard casino table with for a 1/3 game.
 * You can top up to the table limit any time (between hands). You can leave the table any time but you cannot take some of your stack off the table, you have to leave the table for at least 2 orbits and come back to buy back in.
 * The minimum buy-in is 30 BBs rounded up, and the maximum buy-in is 100 BBs. For a $0.10/$0.30 game this is $10/$30.
@@ -58,6 +58,9 @@ This stuff is just how it works in the casinos. You probably don't care about th
 * Verbal is *always* binding. If you say one thing, but put in too many or too few chips, the dealer will correct it by passing chips back to you or directing you to put more chips into the bet.
 * When you bet, use a single forward motion. Do not place some chips out, then reach back and get more chips and put them out also. Do do the "movie thing" and say "I see your 100, and raise you 100 more!". This is called a "string bet" and it is not allowed because you might use your opponent's reaction to decide whether or not to raise or how big of a raise to make.
 * No Angling: It goes without saying, but angles are NOT fun. Angles are using deceptive or non-standard actions to try to trick another player into making a mistake (like mucking the winning hand).
+* Side Pots: If multiple players are all-in but they don't have the exact same number of chips, it can create a side pot. For N players, there can be up to N-1 side pots.
+    * Example: You have 120. Your opponent has 100. You go "all in". They call. The pot is 200 and you get 20 back, win or lose. The winner of the pot then gets the 200.
+    * Example: Player A has 200, player B has 150, player C has 100. Player C goes "all in" for 100. Player A re-raises "all in" for 200. Player B calls. Now the main pot has 300 in it (100 from each player), the side pot has 100 in it (50 from A and 50 from B), and plater A keeps their 50. The best hand of (A, B, C) wins the main pot, and the best hand of (A, B) wins the side pot. Player C cannot win the side pot because they didn't contribute to it.
 
 ### Cards / Gameplay
 
@@ -76,6 +79,11 @@ This stuff is just how it works in the casinos. You probably don't care about th
 * That said, it is rude to "slow roll". Once the dealer says "show 'em", just flip both your cards over.
 * You must show both cards to win a pot unless everyone else mucks.
 
+### Hand Rankings
+
+Feel free to use this if you are new to poker.
+* ![rules and rankings card](cheat-sheet.jpg)
+
 ## Variant: Tournament
 
 Occasionally we will run tournaments. In these situations, the rules are slightly different than above:
@@ -86,8 +94,8 @@ Occasionally we will run tournaments. In these situations, the rules are slightl
 * Once the tournament ends, we could do another one or return to cash game
 * Depending on the number of players, a set number of places will pay out (say, 10 players means 3 places pay out).
 * Example 10 person payout structure:
- * 10 people * $30 => $300
- * 1st place: 50% => $150
- * 2nd place: 30% => $90
- * 3rd place: 20% => $60
+    * 10 people * $30 => $300
+    * 1st place: 50% => $150
+    * 2nd place: 30% => $90
+    * 3rd place: 20% => $60
 * For details, see [Home Poker Tournament](https://www.homepokergames.com/home-poker-tournament-payout-structure.php)
