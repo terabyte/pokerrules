@@ -48,7 +48,8 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
 * You can never be forced to put up more money because someone else has more money than you - what is on the table plays
 * Just like a casino, chips are as good as cash on the table. If you need more chips, ask the banker (me) and I will sell you chips for cash. I keep all cash separately so at the end of the night people can sell their chips back for the same cash.
 * There is no tipping, no rake, and nothing removes money from the game until people sell their chips back. I will always sell myself chips back last, so any mismatch is pretty much my problem, not yours.
-* Chips should not leave the table or go in your pocket
+* Chips should not leave the table or go in your pocket. The one exception is if I can't break a 20, I might give you an extra 100 chip ($10) to hold until you sell your chips back. You can place that on the table any time between hands if it does not put your stack over the max, but you cannot take it back off once you do.
+* Change Hand: At the end of the night, we will do a change hand where anything that doesn't round to $1 will go in the middle, then we deal a full hand face up and the winner takes the remainder. The pot will also round to an even dollar amount and that will ensure nobody gets stupid metal money.
 
 ### Betting Minutea
 
