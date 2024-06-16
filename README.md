@@ -128,10 +128,27 @@ This stuff is just how it works in the casinos. You probably don't care about th
     * If someone goes broke the hand before their B, there is a "dead button". Blinds remain the same as they would have been, but the button rests on the empty spot and the person to their right is still the CO as they would have been. On the next hand, the button goes to their left.
     * If multiple people go broke at once, you adjust the blinds using dead positions as needed to make sure nobody misses their turn paying the blinds or having the button.
 
-### Hand Rankings
+### Hand Rankings and Probabilities
 
 Feel free to use this if you are new to poker.
 * ![rules and rankings card](cheat-sheet.jpg)
+
+To help give you a sense for how common or rare each rank is, here are the probabilities you will have each type of hand by the river:
+
+* Royal Flush: 0.0032% (1 in 31250)
+* Straight Flush: 0.0279% (1 in 3584)
+* Four of a kind: 0.168% (1 in 595)
+* Full House (Boat): 2.60% (1 in 38)
+* Flush: 3.03% (1 in 33)
+* Straight: 4.62% (1 in 22)
+* Three of a kind (Set): 4.83% (1 in 21)
+* Two Pair: 23.5% (1 in 4.3)
+* One Pair: 43.8% (1 in 2.3)
+* No Pair (high card): 17.4% (1 in 5.7)
+
+These are calculated from the 7-card hand probabilities in [Wikipedia: Poker probability](https://en.wikipedia.org/wiki/Poker_probability).
+
+Note that having no pair is actually MORE RARE than having one pair! Also note that having a flush is a one in 30 situation, a boat is a one in 40 situation, and quads is a one in 600 situation. There is quite a big jump there. If you get quads or better, you should be winning the hand or writing the best bad-beat story of your life.
 
 # Variants
 
