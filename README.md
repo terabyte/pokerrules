@@ -23,7 +23,7 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
 ### Getting Started
 
 * For an overview of Texas Hold'em, see [wikipedia](https://en.wikipedia.org/wiki/Texas_hold_%27em) or other resources
-* We play no-limit, meaning you can go all-in (bet all the money in your stack) at any time. If someone does not have enough money, they can still call up to the amount they have. This creates a side pot. Having less money never forces you to lose the hand. You can never win more money than you had in your stack from each player in the hand. For details, see "side pots" under Betting Minutea
+* We play no-limit, meaning you can go all-in (bet all the money in your stack) at any time. If someone does not have enough money, they can still call up to the amount they have. This creates a side pot. Having less money never forces you to lose the hand. You can never win more money than you had in your stack from each player in the hand. For details, see "side pots" under Betting Minutiae
 * We play with chips that are styled and colored to resemble casino chips. They are labeled $1, $5, $25, and $100. These chips will be assigned a value (usually 1/10th) so that a $30 buy-in gets you 300 chips, which is what you might normally sit down at a standard casino table with for a 1/3 game.
 * You can top up to the table limit any time (between hands). You can leave the table any time but you cannot take some of your stack off the table, you have to leave the table for at least 2 orbits and come back to buy back in.
 * The minimum buy-in is 30 BBs rounded up, and the maximum buy-in is 100 BBs. For a $0.10/$0.30 game this is $10/$30.
@@ -50,7 +50,7 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
 * Chips should not leave the table or go in your pocket. The one exception is if I can't break a 20, I might give you an extra 100 chip ($10) to hold until you sell your chips back. You can place that on the table any time between hands if it does not put your stack over the max, but you cannot take it back off once you do.
 * Change Hand: At the end of the night, we will do a change hand where anything that doesn't round to $1 will go in the middle, then we deal a full hand face up and the winner takes the remainder. The pot will also round to an even dollar amount and that will ensure nobody gets stupid metal money.
 
-### Fair Play Minutea
+### Fair Play Minutiae
 
 * Do NOT discuss what cards you had during a hand, even if you are no longer in the hand, wait until the pot is awarded to someone. Any discussion can impact the result of the hand and is unfair to those still in the hand. Try not to react obviously to the community cards for the same reason. Try not to accidentally reveal your cards while folding them. *It is your responsibility to protect your hand. If your hand is revealed it may be declared dead at the dealer's discretion*.
 * Fair Play with accidentally revealed information:
@@ -62,7 +62,7 @@ The game is Texas No-Limit Hold'em. Most games will be cash games, tournament va
     * In multi-way pots, if you expose your hand intentionally your hand may be declared dead, at the discretion of the dealer. This is to prevent an unfair situation where one player has more information at the time they act than other players.
     * Once it is "heads up", (only you and one other player), you may expose one or both of your cards at any time you desire, but it is very unusual to do so and generally not in your interest. The most common way this happens is someone shows their cards after stating "I am folding, but this is what I had".
 
-### Betting Minutea
+### Betting Minutiae
 
 This stuff is just how it works in the casinos. You probably don't care about this but in case you are curious how it works, these are the rules I will enforce.
 
@@ -101,7 +101,7 @@ This stuff is just how it works in the casinos. You probably don't care about th
 * You must show both cards to win a pot unless everyone else mucks.
 * If someone is taking a long time to act, you can "call clock" on them but it is rude unless they have been taking longer than 5 minutes. Clock is 2 minutes.
 
-### Positions and Blinds Minutea
+### Positions and Blinds Minutiae
 
 * Positions are named for convenience:
     * The "button" or "dealer" (B) is the person with the dealer button in front of them. Except for the first round (due to blinds), they are the last to take first action and the last to receive a card.
@@ -133,6 +133,8 @@ This stuff is just how it works in the casinos. You probably don't care about th
 Feel free to use this if you are new to poker.
 * ![rules and rankings card](cheat-sheet.jpg)
 
+# Variants
+
 ## Variant: Tournament
 
 Occasionally we will run tournaments. In these situations, the rules are slightly different than above:
@@ -151,68 +153,89 @@ Occasionally we will run tournaments. In these situations, the rules are slightl
     * 3rd place: 20% => $60
 * For details, see [Home Poker Tournament](https://www.homepokergames.com/home-poker-tournament-payout-structure.php)
 
-## Poker Probability, Pot Odds, and Positional Primer
+## Variant: PLO Double-Board Bomb Pot
+
+Occasionally, we will have a Double-board PLO Bomb Pot. Some tables at real casinos will do this, typically once whenever the dealer changes (~once an hour). Everyone must agree to do a bomb pot. Folks can agree to allow it but sit out too, if they desire.
+
+* Omaha
+    * PLO stands for Pot Limit Omaha, which is just like Hold'em except you get 4 cards instead of 2, but you are only allowed to make your best hand using 2 of your hole cards. Due to having more cards, Omaha hands tend to get crazy and flushes, boats, and quads are much more common than they are in hold'em. A good hold'em hand might be singificantly less strong in Omaha.
+    * The best starting hand in Omaha is AAKK double-suited. For example - AsAhKsKh. Now you can make trips or quads with Aces or Kings, or get the nut flush with two of the four possible suits.
+    * AAAA would be a bad starting hand, because you have all 4 aces but can only use two of them. Getting a set of aces is basically impossible and a boat is unlikely unless the board has a set.
+* Double-board
+    * Double-board means the dealer will deal two entire boards. On the flop, the dealer will deal 3 cards to the top board (farthest from the dealer) and then the bottom board (closest to the dealer), burning before each one. Then, the normal flop betting round will happen. Next, the dealer will burn and deal two turns, then betting again, then burn and deal two rivers. It is similar to "running it twice" - if you win both boards, you win the pot. If two players each win one board, they split the pot.
+    * Pot limit means the maximum bet at any time is the current pot. For example, if there is 50 in the pot, you can only bet up to 50. The next player can then raise to 100 because there is now 100 in the pot. On the river, the betting limit is removed (it becomes difficult to count the pot and usually it is big enough that all-in is legal anyways).
+* Bomb pot
+    * Bomb pot means everyone puts in a pre-agreed ante, typically 5-10 chips (2-4 BBs), and the dealer deals the hands and goes straight to the flop. This means the pot starts out with 20-30 BBs in it already so the limit aspect comes into play less, and people see a flop without voluntarily putting anything in to the pot.
+
+# Poker Probability, Pot Odds, and Positional Primer
 
 Poker is a game principally based upon two concepts: incomplete information, and probability. You do not know your opponents hands, and you do not know what community cards will come. You do, however, know various probabilities for what they might have, and what cards might come. Some general knowledge will be extremely helpful in enabling you to play better.
 
-* Hand probabilities
-    * The deck has 52 cards. This means the probability of any card showing up in a given position is 1 in 52, or ~2%.
-    * Pocket pairs are very good starting hands. The probability of getting *any* pocket pair dealt to you is simply the probability that your second card is the same as your first. Your first card can be anything, but once you are dealt your first card there are 51 cards left in the deck and 3 of them are the same as your first card, so your chances of getting a pocket pair dealt to you are 3/51 or 5.9%, or once every 17 hands.
-    * The best starting hand is two aces. The probability of getting two aces as your starting hand is 1 in 221 or ~0.45%. This means you can expect to see this hand, on average, once every 221 hands. Sometimes it will be much more, sometimes it will be much less. That is natural variance.
-    * To understand where this comes from, there are 4 aces in the deck, so the probability of getting one ace is 4/52 or 7.6%. Each card is (supposed to be) uniformly random, so the chance of getting dealt a second ace given that you have already been dealt one ace is 3/51 or 5.9%. Thus, the probability of getting dealt two aces are 7.6% times 5.9% or 0.45%.
-    * The worst starting hand is 72 offsuit. This hand is the worst because off-suit means flushes are unlikely, 7 and 2 are more than 5 cards apart so unlikely to contribute to a straight, and they are the lowest cards that are that far apart so even if you get a pair (say you pair your 7) it is unlikely to be the best pair on the board.
-    * The probability of making a pair by the time the flop hits is ~50%. This means half of your opponents will have a pair or better. Ace high is not very good.
-    * This also means the probability the board will pair by the river is ~50%. If you hae a pocket pair and hit trips on the flop, you have a 50/50 shot of already having or making a boat by the river.
-    * You can calculate the approximate probability of various other things happening by counting your "number of outs". An "out" is a card you need. Each out gives you approximately a 2% chance for each remaining card to come.
-        * Example: You have AK. The flop comes Q, 8, 2 rainbow. Your opponent has KQ, giving them a pair of queens. You can beat them if any ace or king comes, as either would give you a higher pair. There are 3 remaining kings and 3 remaining aces in the deck, so you have 6 outs. There are 2 more cards to come. So your equity (proability of winning) is approximately 6 outs * 2 cards (turn and river) * 2% => 24%. In reality, your equity is also slightly higher than that because you could also catch a "backdoor" (runner-runner) straight if a J *and* a T were to come out. We know 7 cards (your hand, your opponent's hand, and the flop) leaving 45 cards left so the probability of that is 4/45 * 4/44 => 0.8%, so you can basically ignore it.
-        * Example: You have AsKs and the flop comes 2s3h4s. You are absolutely certain your opponent has either pocket 4s or A5 for the straight, meaning your only way to beat them is to catch a flush. If we assume your opponent has no spades, there are 13 spades and you have 4 of them leaving 9 available. 9 outs * 2 cards * 2% => 36% equity.
-    * Realistically, you don't normally know your opponents hand, but you might often suspect you are ahead (meaning you can calculate their outs) or you are behind (meaning you can calculate your outs). This can help you not only "get your money in good" (when you are ahead), but also decide if you are getting good pot odds to call. See discussion of pot odds below.
-* Opening ranges and VPIP
-    * Premium hands are hands you should open regardless of what position you are in when playing 9-handed. Premium hands are generally considered to consist of AA, KK, QQ, JJ, AK, AQ, AJ, KQ, KJ (suited), JQ (suited). Depending on the table dynamics, you might also include down to pocket 7s, A9+(suited), KT(suited).
-        * Example: The probability of getting a solid premium hand as listed above is the sum of all of the probabilities:
-            * AA: 0.45%
-            * KK: 0.45%
-            * QQ: 0.45%
-            * JJ: 0.45%
-            * AK (suited or offsuit): 0.59%
-            * AQ (suited or offsuit): 0.59%
-            * AJ (suited or offsuit): 0.59%
-            * KQ (suited or offsuit): 0.59%
-            * KJ (suited): 0.15%
-            * JQ (suited): 0.15%
-            * 4*0.45 + 4*0.59 + 2*0.15 => 4.46% (1 in 21 hands)
-            * This means we should expect to raise pre-flop ~5% of the time, or one in every 21 hands on average.
-        * Example: We also want to calculate our calling range. Lets say we should call one bet with the following additional hands:
-            * TT-22: 0.45% * 9
-            * KJ and JQ(offsuit): 0.44% * 2
-            * QT, JT: 0.59% * 2
-            * suited connectors: 9Ts - 56: 0.15% * 5
-            * 0.45*9 + 0.44*2 + 0.59*2 + 0.15*5 => 6.9% (~1 in 15 hands)
-        * If you add these together, the hands you should either call or raise on are 11.3% or about 1 in 9 hands.
-        * This means you should try to play about 1 hand per orbit on average.
-        * This also means if you see someone playing a lot more than 2 or 3 hands per orbit, for multiple orbits, they are probably playing very loose. On the other hand, if you see someone playing much less than one hand per orbit, they may be playing very tightly and folding marginal hands like KQ or JTs.
-    * The hands you raise plus the hands you call as a percentage are often called "voluntarily put in pot" or VPIP, and by observing your VPIP or another player's VPIP over a sufficiently large sample size you can get a very good idea for how tight or loose they are playing. See [this article](https://www.blackrain79.com/2019/10/what-is-good-vpip-in-poker.html) for much more detail.
-* Position
-    * In poker, position changes *everything*. Being in "late" position means you have a ton more information - If you are in the cutoff on a 9-handed game, and it folds around to you, you know that UTG, UTG+1, UTG+2, and the HJ all folded with a bad hand. Instead of having to beat 8 other people, you only have to beat 4 other people. You should literally play twice as many hands from this situation!
-    * When you add in playing more hands when in favorable position (HJ, CO, and B) your VPIP should increase from the ~11% we calculated above to more like 15%. If you are playing 6-handed, it is like you are always slightly later position, so your VPIP should be more like 20%.
-    * Many people prefer 6-max simply because they get to play more hands, so it is less boring!
-    * Another benefit of position is that you are last to act in later rounds. If you are the dealer, you are guaranteed to be last to act in every round on and after the flop. If you are CO, however, and the button folds, you are effectively as advantaged as the button was for the remainder of the hand! This is called being "in position" - if you are behind all other players in the hand. You can play more confidently when in position because you already know what other people have done when you make your choice. If they check, you can elect to check and be guaranteed to see a free card. If they bet, you can fold without putting any more money in the pot.
-    * Playing "out of position"
-        * Similarly, playing out of position is much less advantageous, but you can still sometimes make the best of it.
-            * When you are out of position, you can know that your opponents are likely to play a wider range.
-            * If you have a very strong hand, you can assume your range is stronger than theirs most of the time.
-            * Players in position are more likely to play aggressively or bluff at the pot.
-            * You can elect to check-raise or slowplay your hand to disguise its strength.
-* Pot Odds and Equity
-    * In poker, your goal is to "get it in good", which means to invest your chips when your equity (probability of winning) makes your expected value net positive (and thus, not to put in money that is a bad investment, because you are unlikely to win more money than you lose).
-    * Equity is your probability of winning - the more likely you are to win, the more you should be willing to risk. Similarly, if you are being asked to call 10 to win 100, you only have to win that one in every 10 times to be profitable.
-    * To calculate pot odds, you need two numbers: The total value of the pot including the opponent's bet, and the amount of additional chips you would need to call.
-        * Example: There is 100 in the pot. A flop comes and your opponent bets 50. This means the pot has 150 in it, and you will need to call 50 to remain in the hand. You are getting 4 to 1.
-    * To calculate equity, simply convert your pot odds to a percentage. If you are getting 4 to 1, then you need to win more than 1 in 4 times to be profitable, or 25% equity.
-    * You can then compare this number with the math you learned in the previous section to see if you should call or not.
-        * Example: You have KsQs and the flop is JsTh2s. Ace high is probably no good, but you have 9 outs to a flush (any spade) *and* 8 outs to a straight (any A or 9). 17 cards * 2% * 2 cards => 68% equity. You are actually more likely to win this hand than your opponent even if they have trips! (sorta - you would still lose if the board pairs, giving them a boat). If your opponent bets 50 into a 100 pot, you are getting 3 to 1 or 33%, your equity is almost double that, you should definitely call or even raise. If your opponent bets 80 into a 100 pot, on the other hand, the call is much more marginal. Considering only equity this round, you should fold - however, read the section on stack depth for more about that situation.
-        * Example: You have JK an the flop comes J92 rainbow. You figure JJ, 99, 22, J9, J2, and 92 are all unlikely due to how the opponent played preflop, so you are probably ahead. The opponent bets 50 into a 100 pot. If they have two over cards (AK or AQ), then they could win by making either pair, meaning they have 5 or 6 outs (5 for AK since you block one king, 6 for AQ). 6*2*2 => 24%, meaning you have 76% equity. You should give them a difficult situation by re-raising. There is 150 in the pot now, so you would want to give them ~25% pot odds by making it 4 to 1. A min-reraise of 50 more would make the pot 200, giving them 5 to 1 to call. A re-raise of 75 would make the pot 225 and require 75 more to call, giving them 75/300 or 4 to 1 pot odds. If you reraised 100 more instead, that would make the pot 250 and they would need to pay 100 to call, giving them 100/350 or just under 30% pot odds. If they call with only 24% equity, this would mean they are making a mistake! You always want to put your opponent in a difficult situation if you can.
+## Hand probabilities
+* The deck has 52 cards. This means the probability of any card showing up in a given position is 1 in 52, or ~2%.
+* Pocket pairs are very good starting hands. The probability of getting *any* pocket pair dealt to you is simply the probability that your second card is the same as your first. Your first card can be anything, but once you are dealt your first card there are 51 cards left in the deck and 3 of them are the same as your first card, so your chances of getting a pocket pair dealt to you are 3/51 or 5.9%, or once every 17 hands.
+* The best starting hand is two aces. The probability of getting two aces as your starting hand is 1 in 221 or ~0.45%. This means you can expect to see this hand, on average, once every 221 hands. Sometimes it will be much more, sometimes it will be much less. That is natural variance.
+* To understand where this comes from, there are 4 aces in the deck, so the probability of getting one ace is 4/52 or 7.6%. Each card is (supposed to be) uniformly random, so the chance of getting dealt a second ace given that you have already been dealt one ace is 3/51 or 5.9%. Thus, the probability of getting dealt two aces are 7.6% times 5.9% or 0.45%.
+* The worst starting hand is 72 offsuit. This hand is the worst because off-suit means flushes are unlikely, 7 and 2 are more than 5 cards apart so unlikely to contribute to a straight, and they are the lowest cards that are that far apart so even if you get a pair (say you pair your 7) it is unlikely to be the best pair on the board.
+* The probability of making a pair by the time the flop hits is ~50%. This means half of your opponents will have a pair or better. Ace high is not very good.
+* This also means the probability the board will pair by the river is ~50%. If you hae a pocket pair and hit trips on the flop, you have a 50/50 shot of already having or making a boat by the river.
+* You can calculate the approximate probability of various other things happening by counting your "number of outs". An "out" is a card you need. Each out gives you approximately a 2% chance for each remaining card to come.
+    * Example: You have AK. The flop comes Q, 8, 2 rainbow. Your opponent has KQ, giving them a pair of queens. You can beat them if any ace or king comes, as either would give you a higher pair. There are 3 remaining kings and 3 remaining aces in the deck, so you have 6 outs. There are 2 more cards to come. So your equity (proability of winning) is approximately 6 outs * 2 cards (turn and river) * 2% => 24%. In reality, your equity is also slightly higher than that because you could also catch a "backdoor" (runner-runner) straight if a J *and* a T were to come out. We know 7 cards (your hand, your opponent's hand, and the flop) leaving 45 cards left so the probability of that is 4/45 * 4/44 => 0.8%, so you can basically ignore it.
+    * Example: You have AsKs and the flop comes 2s3h4s. You are absolutely certain your opponent has either pocket 4s or A5 for the straight, meaning your only way to beat them is to catch a flush. If we assume your opponent has no spades, there are 13 spades and you have 4 of them leaving 9 available. 9 outs * 2 cards * 2% => 36% equity.
+* Realistically, you don't normally know your opponents hand, but you might often suspect you are ahead (meaning you can calculate their outs) or you are behind (meaning you can calculate your outs). This can help you not only "get your money in good" (when you are ahead), but also decide if you are getting good pot odds to call. See discussion of pot odds below.
+
+## Opening ranges and VPIP
+
+* Premium hands are hands you should open pretty much regardless of what position you are in when playing 9-handed. Premium hands are generally considered to consist of AA, KK, QQ, JJ, AK, AQ, AJ, KQ, KJ (suited), JQ (suited). Depending on the table dynamics, you might also include down to pocket 7s, A9+(suited), KT(suited).
+    * Example: The probability of getting a solid premium hand as listed above is the sum of all of the probabilities:
+        * AA: 0.45%
+        * KK: 0.45%
+        * QQ: 0.45%
+        * JJ: 0.45%
+        * AK (suited or offsuit): 0.59%
+        * AQ (suited or offsuit): 0.59%
+        * AJ (suited or offsuit): 0.59%
+        * KQ (suited or offsuit): 0.59%
+        * KJ (suited): 0.15%
+        * JQ (suited): 0.15%
+        * 4*0.45 + 4*0.59 + 2*0.15 => 4.46% (1 in 21 hands)
+        * This means we should expect to raise pre-flop ~5% of the time, or one in every 21 hands on average.
+    * Example: We also want to calculate our calling range. Lets say we should call one bet with the following additional hands:
+        * TT-22: 0.45% * 9
+        * KJ and JQ(offsuit): 0.44% * 2
+        * QT, JT: 0.59% * 2
+        * suited connectors: 9Ts - 56: 0.15% * 5
+        * 0.45*9 + 0.44*2 + 0.59*2 + 0.15*5 => 6.9% (~1 in 15 hands)
+    * If you add these together, the hands you should either call or raise on are 11.3% or about 1 in 9 hands.
+    * This means you should try to play about 1 hand per orbit on average.
+    * This also means if you see someone playing a lot more than 2 or 3 hands per orbit, for multiple orbits, they are probably playing very loose. On the other hand, if you see someone playing much less than one hand per orbit, they may be playing very tightly and folding marginal hands like KQ or JTs.
+* The hands you raise plus the hands you call as a percentage are often called "voluntarily put in pot" or VPIP, and by observing your VPIP or another player's VPIP over a sufficiently large sample size you can get a very good idea for how tight or loose they are playing. See [this article](https://www.blackrain79.com/2019/10/what-is-good-vpip-in-poker.html) for much more detail.
+
+## Position
+
+* In poker, position changes *everything*. Being in "late" position means you have a ton more information - If you are in the cutoff on a 9-handed game, and it folds around to you, you know that UTG, UTG+1, UTG+2, and the HJ all folded with a bad hand. Instead of having to beat 8 other people, you only have to beat 4 other people. You should literally play twice as many hands from this situation!
+* When you add in playing more hands when in favorable position (HJ, CO, and B) your VPIP should increase from the ~11% we calculated above to more like 15%. If you are playing 6-handed, it is like you are always slightly later position, so your VPIP should be more like 20%.
+* Many people prefer 6-max simply because they get to play more hands, so it is less boring!
+* Another benefit of position is that you are last to act in later rounds. If you are the dealer, you are guaranteed to be last to act in every round on and after the flop. If you are CO, however, and the button folds, you are effectively as advantaged as the button was for the remainder of the hand! This is called being "in position" - if you are behind all other players in the hand. You can play more confidently when in position because you already know what other people have done when you make your choice. If they check, you can elect to check and be guaranteed to see a free card. If they bet, you can fold without putting any more money in the pot.
+* Playing "out of position"
+    * Similarly, playing out of position is much less advantageous, but you can still sometimes make the best of it.
+        * When you are out of position, you can know that your opponents are likely to play a wider range.
+        * If you have a very strong hand, you can assume your range is stronger than theirs most of the time.
+        * Players in position are more likely to play aggressively or bluff at the pot.
+        * You can elect to check-raise or slowplay your hand to disguise its strength.
+
+## Pot Odds and Equity
+
+* In poker, your goal is to "get it in good", which means to invest your chips when your equity (probability of winning) makes your expected value net positive (and thus, not to put in money that is a bad investment, because you are unlikely to win more money than you lose).
+* Equity is your probability of winning - the more likely you are to win, the more you should be willing to risk. Similarly, if you are being asked to call 10 to win 100, you only have to win that one in every 10 times to be profitable.
+* To calculate pot odds, you need two numbers: The total value of the pot including the opponent's bet, and the amount of additional chips you would need to call.
+    * Example: There is 100 in the pot. A flop comes and your opponent bets 50. This means the pot has 150 in it, and you will need to call 50 to remain in the hand. You are getting 4 to 1.
+* To calculate equity, simply convert your pot odds to a percentage. If you are getting 4 to 1, then you need to win more than 1 in 4 times to be profitable, or 25% equity.
+* You can then compare this number with the math you learned in the previous section to see if you should call or not.
+    * Example: You have KsQs and the flop is JsTh2s. Ace high is probably no good, but you have 9 outs to a flush (any spade) *and* 8 outs to a straight (any A or 9). 17 cards * 2% * 2 cards => 68% equity. You are actually more likely to win this hand than your opponent even if they have trips! (sorta - you would still lose if the board pairs, giving them a boat). If your opponent bets 50 into a 100 pot, you are getting 3 to 1 or 33%, your equity is almost double that, you should definitely call or even raise. If your opponent bets 80 into a 100 pot, on the other hand, the call is much more marginal. Considering only equity this round, you should fold - however, read the section on stack depth for more about that situation.
+    * Example: You have JK an the flop comes J92 rainbow. You figure JJ, 99, 22, J9, J2, and 92 are all unlikely due to how the opponent played preflop, so you are probably ahead. The opponent bets 50 into a 100 pot. If they have two over cards (AK or AQ), then they could win by making either pair, meaning they have 5 or 6 outs (5 for AK since you block one king, 6 for AQ). 6*2*2 => 24%, meaning you have 76% equity. You should give them a difficult situation by re-raising. There is 150 in the pot now, so you would want to give them ~25% pot odds by making it 4 to 1. A min-reraise of 50 more would make the pot 200, giving them 5 to 1 to call. A re-raise of 75 would make the pot 225 and require 75 more to call, giving them 75/300 or 4 to 1 pot odds. If you reraised 100 more instead, that would make the pot 250 and they would need to pay 100 to call, giving them 100/350 or just under 30% pot odds. If they call with only 24% equity, this would mean they are making a mistake! You always want to put your opponent in a difficult situation if you can.
 
 # TODO
+
 * Nothing at this time
 
